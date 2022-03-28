@@ -19,8 +19,6 @@
 </div>
 <p>&nbsp</p>
 
-<h2></h2>
-
 <div align="center">
 <h2>Techs stack</h2>
 <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'/>
@@ -39,8 +37,6 @@
 <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'/>
 </div>
 <p>&nbsp</p>
-
-<h2></h2>
 
 <div align="center">
 <h2>Reach me out!</h2>
