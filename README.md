@@ -2,10 +2,6 @@
 
 <p>My name is Bernardo Ramalhete, father of two and happily married. An sporadic gamer and ever evolving full stack web developer.</p>
 
-<p>&nbsp</p>
-
-<h2></h2>
-
 <div>
 <p>🇧🇷 Based in Minas Gerais, Brazil</p>
 <p>🤓 I'm a react nerd</p>
