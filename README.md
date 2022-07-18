@@ -10,7 +10,7 @@
   </div>
   
 <div>
-<p>🇧🇷 Based in Minas Gerais, Brazil</p>
+<p>🇧🇷 Based in Paraná, Brazil</p>
 <p>🤓 I'm a react nerd</p>
 <p>❤️ A lover of bealtiful design</p>
 <p>💀 SQL or NoSQL that is the question</p>
